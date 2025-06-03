@@ -1,0 +1,10 @@
+# Node/TypeScript
+backend/node_modules
+backend/dist
+
+# Flutter
+mobile/**/build
+mobile/.dart_tool
+
+# Docker
+.env
